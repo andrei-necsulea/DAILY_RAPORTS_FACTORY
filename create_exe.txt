@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile -w --icon="iconita.ico" --hidden-import babel.numbers Rapoarte_zilnice.py

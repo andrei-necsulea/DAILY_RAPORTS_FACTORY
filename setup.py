@@ -1,0 +1,1 @@
+dll_excludes': ['Secur32.dll', 'SHFOLDER.dll', 'CRYPT32.dll']
